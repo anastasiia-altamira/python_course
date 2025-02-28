@@ -10,3 +10,4 @@ if (s % 4 == 0 and s % 100 != 0) or (s % 400 == 0):
 else:
     print("NO! It's a common year")
 
+

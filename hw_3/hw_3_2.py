@@ -19,3 +19,5 @@ s_left_side = s[:s_middle_of_the_string]
 s_right_side = s[s_middle_of_the_string:]  
 
 print(s_right_side + s_left_side)  
+
+
